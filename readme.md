@@ -1,6 +1,4 @@
 Stage XPLAB
-* POWER-KI
-* SQL
 
 **PRIMO GIORNO**
 
