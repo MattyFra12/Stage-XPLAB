@@ -1,4 +1,5 @@
-**Stage XpLab**
+**STAGE XPLAB**
+
 In questo documento raccontiamo l esperienza del mio stange dividendolo giorno per giorno.
 Abbiamo caricato anche i nostri progetti, per aprirli bisogna scaricare Power-Ki: https://github.com/POWER-KI/POWER-KI
 
