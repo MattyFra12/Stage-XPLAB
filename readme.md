@@ -9,3 +9,7 @@ Stage XPLAB
 **SECONDO GIORNO**
 
 Il secondo giorno abbiamo creato il secondo programma, ciao-02, e successivamente anche con la creazione della agenda, agenda-01, dove abbiamo inserito vari campi di acquisizione per l'agenda come: cognome, nome, telefono, data, note e indirizzo. 
+
+**TERZO GIORNO**
+
+Il terzo giorno abbiamo continuato con lo sviluppo dell'agenda e con la descrizione del codice. Abbiamo iniziato anche a creare e sviluppare la pagina su GitHub.
