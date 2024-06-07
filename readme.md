@@ -1,3 +1,3 @@
-stage XpLab
-* Power-Ki
+Stage XPLAB
+* POWER-KI
 * SQL
